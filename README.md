@@ -9,7 +9,7 @@ A SwiftUI task manager for iPhone. Each day starts with a fresh page. The app ke
 3. Connect your unlocked iPhone 15, select it as the run destination, and press **Run**. If prompted on the phone, enable Developer Mode and trust your Mac.
 4. When you first create a task with a reminder, allow notifications. Notifications can later be managed in iPhone Settings.
 
-The deployment target is iOS 18.0, so the app can run on newer iOS versions, including the iOS 27 version you reported. The latest available Xcode may need to be installed to recognize iOS 27 devices.
+The deployment target is iOS 18.0, so the app can run on newer iOS versions. The latest available Xcode may need to be installed to recognize iOS 27 devices.
 
 ## Use
 
